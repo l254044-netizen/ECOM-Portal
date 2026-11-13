@@ -1,0 +1,11 @@
+product_id,name,category,price,stock
+P101,Wireless Mouse,Electronics,1500.0,23
+P102,Mechanical Keyboard,Electronics,8500.0,10
+P103,USB-C Charger,Electronics,2200.0,30
+P104,Cotton Kurta,Clothing,3500.0,15
+P105,Running Shoes,Footwear,7999.0,8
+P106,Leather Wallet,Accessories,1800.0,20
+P107,Steel Water Bottle,Home,1200.0,40
+P108,Bluetooth Earbuds,Electronics,6500.0,4
+P109,Backpack,Accessories,4500.0,12
+P110,Desk Lamp,Home,2800.0,3

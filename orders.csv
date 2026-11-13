@@ -1,0 +1,12 @@
+order_id,customer_name,product_id,product_name,quantity,total,status
+1001,Ali Raza,P101,Wireless Mouse,2,3000.0,Delivered
+1002,Ayesha Khan,P104,Cotton Kurta,3,10500.0,Delivered
+1003,Usman Tariq,P102,Mechanical Keyboard,3,24225.0,Shipped
+1004,Fatima Noor,P105,Running Shoes,1,7999.0,Shipped
+1005,Hamza Ahmed,P108,Bluetooth Earbuds,2,13000.0,Pending
+1006,Zainab Ali,P107,Steel Water Bottle,5,6000.0,Pending
+1007,Bilal Shah,P109,Backpack,2,9000.0,Cancelled
+1008,Sana Iqbal,P105,Running Shoes,7,50393.7,Delivered
+1009,Ahmed Hassan,P103,USB-C Charger,4,8800.0,Pending
+1010,Maryam Siddiqui,P101,Wireless Mouse,1,1500.0,Pending
+1011,haseeb,P101,Wireless Mouse,2,3000.0,Pending
